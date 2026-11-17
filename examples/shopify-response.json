@@ -1,0 +1,220 @@
+{
+  "success": true,
+  "website": "https://www.shopify.com/",
+  "final_url": "https://www.shopify.com/",
+  "brand": {
+    "name": "Shopify",
+    "category": "E-commerce platform",
+    "summary": "Shopify is an all-in-one commerce platform for businesses, offering tools to manage every part of the business, including ecommerce software, payments, shipping, customers, retail, inventory, and catalog control.",
+    "products_and_services": [
+      "Shopify: The All-in-One Commerce Platform for Businesses",
+      "Shopify Checkout with Shop Pay",
+      "Shopify Capital",
+      "Agentic Storefronts",
+      "Shopify Markets",
+      "Sidekick"
+    ]
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "Shopify is a leading e-commerce platform for businesses, offering a range of tools and services to help entrepreneurs and enterprises grow their online presence.",
+      "competitors": [
+        {
+          "name": "BigCommerce",
+          "strengths": [
+            "Scalability",
+            "Customization"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited international support"
+          ],
+          "evidence_note": "AI suggestion, not independently researched fact"
+        },
+        {
+          "name": "WooCommerce",
+          "strengths": [
+            "Flexibility",
+            "Integration with WordPress"
+          ],
+          "weaknesses_or_gaps": [
+            "Limited scalability"
+          ],
+          "evidence_note": "AI suggestion, not independently researched fact"
+        },
+        {
+          "name": "Magento",
+          "strengths": [
+            "Customization",
+            "Scalability"
+          ],
+          "weaknesses_or_gaps": [
+            "Complexity",
+            "Cost"
+          ],
+          "evidence_note": "AI suggestion, not independently researched fact"
+        }
+      ],
+      "brand_advantages": [
+        "AI-powered commerce platform",
+        "Customizable storefronts",
+        "Integrated payment and shipping tools",
+        "Scalability and flexibility",
+        "Access to Shopify App Store with 21,000+ commerce apps"
+      ],
+      "positioning_opportunities": [
+        "Target entrepreneurs and small businesses looking to grow their online presence",
+        "Position Shopify as a one-stop-shop for e-commerce needs",
+        "Highlight the benefits of using Shopify's AI-powered commerce platform"
+      ]
+    },
+    "target_search_queries": [
+      {
+        "query": "best e-commerce platforms for small businesses",
+        "platforms": [
+          "Google"
+        ],
+        "intent": "informational",
+        "business_relevance": "high",
+        "target_audience": "small business owners"
+      },
+      {
+        "query": "how to grow my online store",
+        "platforms": [
+          "Facebook"
+        ],
+        "intent": "transactional",
+        "business_relevance": "high",
+        "target_audience": "online store owners"
+      },
+      {
+        "query": "ecommerce apps for Shopify",
+        "platforms": [
+          "Instagram"
+        ],
+        "intent": "informational",
+        "business_relevance": "high",
+        "target_audience": "Shopify store owners"
+      },
+      {
+        "query": "Shopify vs BigCommerce",
+        "platforms": [
+          "LinkedIn"
+        ],
+        "intent": "comparative",
+        "business_relevance": "high",
+        "target_audience": "e-commerce professionals"
+      },
+      {
+        "query": "Shopify for entrepreneurs",
+        "platforms": [
+          "X"
+        ],
+        "intent": "informational",
+        "business_relevance": "high",
+        "target_audience": "entrepreneurs"
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "Shopify",
+      "secondary_keywords": [
+        "e-commerce platform",
+        "online store",
+        "commerce software"
+      ],
+      "long_tail_keywords": [
+        "Shopify for small businesses",
+        "Shopify for entrepreneurs",
+        "Shopify for e-commerce"
+      ],
+      "business_keywords": [
+        "commerce",
+        "e-commerce",
+        "online store",
+        "retail",
+        "inventory",
+        "catalog"
+      ],
+      "recommended_title": "Shopify: The All-in-One Commerce Platform for Businesses",
+      "meta_description": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
+      "supporting_content": [
+        "New page ideas: 'How to grow your online store with Shopify', 'Shopify for entrepreneurs', 'Shopify for small businesses'",
+        "FAQs: 'What is Shopify?', 'How does Shopify work?', 'What are the benefits of using Shopify?'",
+        "Blog topics: 'Shopify tips and tricks', 'Shopify success stories', 'Shopify news and updates'"
+      ]
+    },
+    "top_services": [
+      {
+        "name": "Shopify: The All-in-One Commerce Platform for Businesses",
+        "description": "Shopify is an all-in-one commerce platform for businesses, offering tools to manage every part of the business, including ecommerce software, payments, shipping, customers, retail, inventory, and catalog control.",
+        "target_industry": "E-commerce",
+        "target_customer": "Entrepreneurs and small businesses",
+        "main_benefit": "Scalability and flexibility",
+        "basis": "website"
+      },
+      {
+        "name": "Shopify Checkout with Shop Pay",
+        "description": "Shopify Checkout with Shop Pay is a secure and fast checkout process that converts up to 50% higher than guest checkout and exposes your brand to hundreds of millions of buyers.",
+        "target_industry": "E-commerce",
+        "target_customer": "Online store owners",
+        "main_benefit": "Higher conversions",
+        "basis": "website"
+      },
+      {
+        "name": "Shopify Capital",
+        "description": "Shopify Capital is a funding option that provides businesses with the capital they need to stock up on inventory and grow rapidly.",
+        "target_industry": "E-commerce",
+        "target_customer": "Entrepreneurs and small businesses",
+        "main_benefit": "Funding for growth",
+        "basis": "website"
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Entrepreneurs",
+        "Small business owners",
+        "E-commerce professionals"
+      ],
+      "secondary_audience": [
+        "Online store owners",
+        "Retailers",
+        "Manufacturers"
+      ],
+      "industries": [
+        "E-commerce",
+        "Retail",
+        "Manufacturing"
+      ],
+      "business_types": [
+        "Entrepreneurial ventures",
+        "Small businesses",
+        "Large enterprises"
+      ],
+      "customer_profiles": [
+        "Young entrepreneurs",
+        "Small business owners",
+        "E-commerce professionals"
+      ],
+      "geographic_focus": null,
+      "customer_needs": [
+        "Scalability and flexibility",
+        "Funding for growth",
+        "Higher conversions"
+      ],
+      "interests": [
+        "E-commerce",
+        "Online store management",
+        "Business growth"
+      ],
+      "recommended_segments": [
+        "E-commerce professionals",
+        "Small business owners",
+        "Entrepreneurs"
+      ]
+    }
+  },
+  "limitations": [
+    "Analysis uses only the submitted page, not the entire website.",
+    "Competitors and comparative claims are unverified AI suggestions, not independent research.",
+    "Search queries are suggestions; no search volumes or rankings are measured."
+  ]
+}
